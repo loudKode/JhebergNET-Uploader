@@ -1,5 +1,5 @@
 # JhebergNET-Uploader
-Multi File Uploader
+Multi Mirror Upload Files to Multiple Sites
 * Supported Fileshareing Sites:
 * * Bdupload
 * * Clicknupload
