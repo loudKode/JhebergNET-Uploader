@@ -19,14 +19,12 @@
 * * nofile
 * * oboom
 * * Onefichier
-* * openload
 * * rapidgator
 * * sendspace
 * * shareonline
 * * solidfiles
 * * turbobit
 * * tusfiles
-* * Twogiga
 * * Uploadboy
 * * Uploaded
 * * Uppit
@@ -34,8 +32,11 @@
 * * Zippyshare
 
 
+`Download:`
+[https://github.com/loudKode/JhebergNET-Uploader/releases](https://github.com/loudKode/JhebergNET-Uploader/releases)<br>
+`Help:`
+[https://github.com/loudKode/JhebergNET-Uploader/wiki](https://github.com/loudKode/JhebergNET-Uploader/wiki)<br>
 
 
-![https://i.postimg.cc/YChRxNXN/ure-Wiz576.png](https://i.postimg.cc/YChRxNXN/ure-Wiz576.png)
+![main](https://i.postimg.cc/0y3Zm5MD/Jheberg-NET-Uploader-kj-Da-Mslx-UM.png)
 
-![https://i.postimg.cc/v805bvBk/Jheberg-NET-Uploader-ocj-Fjv-AFd-J.png](https://i.postimg.cc/v805bvBk/Jheberg-NET-Uploader-ocj-Fjv-AFd-J.png)
